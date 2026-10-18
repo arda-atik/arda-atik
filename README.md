@@ -5,7 +5,7 @@
 🚀 Currently looking for summer internship opportunities. I use this space to share my academic projects and personal work.
 
 ### 🛠️ Tech Stack & Tools
-- **Programming:** Python, C++ (C++20)
+- **Programming:** Python, C++ (C++20), Wolfram Language (Mathematica)
 - **OS & Tools:** Linux, Git, GitHub, CMake, CLion
 
 ### 📫 Let's Connect
