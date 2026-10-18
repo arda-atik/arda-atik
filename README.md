@@ -1,12 +1,12 @@
 # Hi there, I'm Arda 👋
 
-🎓 Mathematical Engineering Student Czech Technical University
-💻 Passionate about algorithms, problem-solving, and mathematical modeling.
+🎓 Mathematical Engineering Student at Czech Technical University (CTU / ČVUT)
+💻 Passionate about algorithms, high-performance computing, mathematical modeling, and quantitative finance.
 🚀 Currently looking for summer internship opportunities. I use this space to share my academic projects and personal work.
 
 ### 🛠️ Tech Stack & Tools
-* **Programming:** Python
-* **OS & Tools:** Linux, Git, GitHub
+- **Programming:** Python, C++ (C++20)
+- **OS & Tools:** Linux, Git, GitHub, CMake, CLion
 
 ### 📫 Let's Connect
-* **Email:** ardaatikk10@gmail.com
+- **Email:** ardaatikk10@gmail.com
